@@ -10,11 +10,13 @@ include_once("head.php");
 
 <body>
     <div>
-        <?php include_once("navbar.php") ?>
-        <main>
-            <h1>Bram Deraeve</h1>
-            Student Applied Informatics at Howest, Belgium
-        </main>
+        <div>
+            <?php include_once("navbar.php") ?>
+            <main>
+                <h1>Bram Deraeve</h1>
+                Student Applied Informatics at Howest, Belgium
+            </main>
+        </div>
         <?php include_once("photo.php") ?>
     </div>
 

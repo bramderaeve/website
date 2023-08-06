@@ -1,3 +1,3 @@
 <aside>
-    <img alt="Bram Deraeve">
+    <img src="/assets/img/bram.jpg" alt="Bram Deraeve">
 </aside>
