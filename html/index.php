@@ -15,7 +15,7 @@ include_once("cv.php");
             <?php include_once("navbar.php") ?>
             <main>
                 <h1>Bram Deraeve</h1>
-                Student Toegepaste Informatica te Howest Brugge
+                Student Toegepaste Informatica bij Howest Brugge
 
                 <h2>Curriculum Vitae</h2>
                 <h3>Opleidingen</h3>
