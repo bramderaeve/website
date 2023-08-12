@@ -26,12 +26,25 @@ body > div {
     justify-content: center;
 }
 
+@media only screen and (max-width: 1000px) {
+    body > div {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body > div {
+        flex-direction: column;
+    }
+}
+
 body > div > div {
     flex-grow: 1;
 }
 
 aside img {
     max-height: 20rem;
+    margin-left: 1rem;
 }
 
 .cv-item h4 {
